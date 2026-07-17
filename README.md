@@ -1,6 +1,6 @@
 # CPE031_BANDIGAN
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN250bWE1a3FweThzeDR2dW95dGc3ZW1lcXN5eDR1M2l6aGJnc2M0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" width="3000">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN250bWE1a3FweThzeDR2dW95dGc3ZW1lcXN5eDR1M2l6aGJnc2M0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" width="2000">
 <h1 align="center">Hi 👋, I'm Christian Lee C. Bandigan</h1>
 <h3 align="center">A computer engineering student studying at Technological Institute of The Philippines. </h3>
 <h3 align="center">This is a repository that contains all my activities in the course Visualizations and Data Analysis. </h3>
