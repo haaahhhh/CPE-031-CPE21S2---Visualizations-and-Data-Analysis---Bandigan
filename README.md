@@ -1,7 +1,7 @@
 # CPE031_BANDIGAN
 
 <h1 align="center">Hi 👋, I'm Christian Lee C. Bandigan</h1>
-<h3 align="center">A computer engineering student studying at Technological Institute of The Philippines</h3>
+<h3 align="center">A computer engineering student studying at Technological Institute of The Philippines. This is a repository that contains all my activities in the course Visualizations and Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haaahhhh&label=Profile%20views&color=0e75b6&style=flat" alt="haaahhhh" /> </p>
 
